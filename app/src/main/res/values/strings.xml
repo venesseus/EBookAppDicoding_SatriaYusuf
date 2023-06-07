@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Electronic Books</string>
+
+    <string name="Home">Homepage</string>
+    <string name="Search_Book">Search books?</string>
+    <string name="Empty">Nothing to found here :v</string>
+    <string name="Error">You encountered an error :v</string>
+    <string name="About">About me</string>
+    <string name="MyName">Satria Yusuf</string>
+    <string name="MyEmail">satriayusufrafaly@gmail.com</string>
+    <string name="GoBack">Go Back</string>
+    <string name="Detail">Detail</string>
+    <string name="Description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+</resources>
